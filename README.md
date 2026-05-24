@@ -36,7 +36,9 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 - Profit Margin % = DIVIDE(Total Profit, Total Sales)
 - Total Orders = DISTINCTCOUNT(Order ID)
 
-#Includes dashboard screenshot 
+## Includes dashboard screenshot 
+<img width="941" height="582" alt="Supersalesanalysis dashboard" src="https://github.com/user-attachments/assets/b6428fe9-bd7e-421b-a2aa-bb5c84ba4751" />
+
 
 ## Author
 Amnshu Khanal
